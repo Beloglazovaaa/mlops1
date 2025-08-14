@@ -1,0 +1,15 @@
+[
+  "cat_id",
+  "amount",
+  "gender",
+  "one_city",
+  "lat",
+  "lon",
+  "population_city",
+  "merchant_lat",
+  "merchant_lon",
+  "hour",
+  "day_of_week",
+  "month",
+  "year"
+]
